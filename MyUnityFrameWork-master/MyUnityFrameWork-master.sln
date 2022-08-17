@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{CAA2D4DC-D47F-3368-EC9B-79261907AA9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteNetLibManagerPlugins", "LiteNetLibManagerPlugins.csproj", "{32D859F1-13D9-2491-4B4E-C8C3ABE2D1DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{8747EEED-EE71-CFDD-2A02-52D7F4F68FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA2D4DC-D47F-3368-EC9B-79261907AA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA2D4DC-D47F-3368-EC9B-79261907AA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA2D4DC-D47F-3368-EC9B-79261907AA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA2D4DC-D47F-3368-EC9B-79261907AA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D859F1-13D9-2491-4B4E-C8C3ABE2D1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D859F1-13D9-2491-4B4E-C8C3ABE2D1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D859F1-13D9-2491-4B4E-C8C3ABE2D1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D859F1-13D9-2491-4B4E-C8C3ABE2D1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8747EEED-EE71-CFDD-2A02-52D7F4F68FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8747EEED-EE71-CFDD-2A02-52D7F4F68FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8747EEED-EE71-CFDD-2A02-52D7F4F68FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8747EEED-EE71-CFDD-2A02-52D7F4F68FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
